@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aliceblue;
+}
+
+ul {
+  width: 400px;
+  background: #1aa0c2;
+  margin: 16px;
+  padding: 8px;
+}
+
+ol {
+  width: 400px;
+  background: #bd5ba7;
+  margin: 16px;
+  padding: 8px;
+}
